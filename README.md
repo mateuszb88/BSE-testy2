@@ -1,3 +1,3 @@
 # BSE-testy2
 
-Bipolar Software Expert
+Bipolar Software Expert!
